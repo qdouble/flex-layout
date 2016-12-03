@@ -1,0 +1,1 @@
+{"__symbolic":"module","version":1,"metadata":{},"exports":[{"from":"./flexbox-module"},{"from":"./api/base"},{"from":"./media-query/media-query-activation"},{"from":"./media-query/media-query-adapter"}]}
